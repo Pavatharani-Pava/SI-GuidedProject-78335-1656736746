@@ -220,10 +220,9 @@ e.   Apply CNN algorithm and save the model and deploy it using API key generate
 f.   For downloading the model we have to run the last part of the above code in the local jupyter notebook:
 
 
-
 g.    Now we will extract the .h5 model file and will do the app deployment using flask as done in the previous training:
 
-Hence we trained the model using IBM Watson.
+Hence,we trained the model using IBM Watson.
 
 
 Advantages & Disadvantages:
